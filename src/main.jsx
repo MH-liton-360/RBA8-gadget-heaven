@@ -8,10 +8,10 @@ import {
 } from "react-router-dom";
 
 
-import Root from './Components/Root/Root';
-import Errorpage from './Errorpage/Errorpage';
-import Home from './Home/Home';
-import Dashboard from './Dashboard/Dashboard';
+import Root from './Components/Root/Root'
+import Errorpage from './Components/Errorpage/Errorpage'
+import Home from './Components/Home/Home';
+import Dashboard from './Components/Dashboard/Dashboard'
 
 
 const router = createBrowserRouter([
