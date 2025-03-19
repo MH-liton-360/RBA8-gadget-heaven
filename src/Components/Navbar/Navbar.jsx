@@ -4,9 +4,9 @@ const Navbar = () => {
 
     const links = <>
 
-        <li> <NavLink to={'/'}>Home</NavLink> </li>
-        <li><a>Statistics</a></li>
-        <li><a>Dashboard</a></li>
+        <li className="text-white"> <NavLink to={'/'}>Home</NavLink> </li>
+        <li className="text-white"><a>Statistics</a></li>
+        <li className="text-white"><a>Dashboard</a></li>
     </>
 
 
@@ -24,7 +24,7 @@ const Navbar = () => {
                         {links}
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">daisyUI</a>
+                <a className="btn btn-ghost text-xl text-white">Gadget Heaven</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">

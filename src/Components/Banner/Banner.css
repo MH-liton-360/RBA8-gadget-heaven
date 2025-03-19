@@ -1,0 +1,11 @@
+.extra {
+    border-top: 3px solid rgb(230, 230, 237);
+    border-left: 3px solid white;
+    border-right: 3px solid white;
+    background-color: rgba(255, 255, 255, 0.336);
+    padding: 15px;
+    height: 530px;
+    width: 1050px;
+    box-shadow: rgb(230, 230, 237);
+
+}
