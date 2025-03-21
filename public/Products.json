@@ -1,0 +1,272 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co/fYLqpV8r/laptop-1.jpg",
+        "category": "Laptops",
+        "price": "99.99k",
+        "description": "A powerful and lightweight ultrabook.",
+        "Specification": [
+            "Intel i7",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 2,
+        "product_title": "MacBook Pro 14",
+        "product_image": "https://i.ibb.co/h1wPqVBB/laptop-2.jpg",
+        "category": "Laptops",
+        "price": "129.99k",
+        "description": "The latest MacBook with M2 chip.",
+        "Specification": [
+            "M2 Chip",
+            "16GB RAM",
+            "1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 3,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co/HLVXTJYm/laptop-3.jpg",
+        "category": "Laptops",
+        "price": "110.99k",
+        "description": "A premium 2-in-1 convertible laptop.",
+        "Specification": [
+            "Intel i7",
+            "16GB RAM",
+            "1TB SSD"
+        ],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": 4,
+        "product_title": "iPhone 14 Pro",
+        "product_image": "/images/iphone1.jpg",
+        "category": "iPhone",
+        "price": "129.99k",
+        "description": "The latest iPhone with advanced camera features.",
+        "Specification": [
+            "A16 Bionic Chip",
+            "128GB Storage",
+            "6.1-inch OLED"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 5,
+        "product_title": "iPhone 13 Mini",
+        "product_image": "/images/iphone2.jpg",
+        "category": "iPhone",
+        "price": "99.99k",
+        "description": "Compact and powerful with all-day battery life.",
+        "Specification": [
+            "A15 Bionic",
+            "128GB Storage",
+            "5.4-inch OLED"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 6,
+        "product_title": "iPhone SE 2022",
+        "product_image": "/images/iphone3.jpg",
+        "category": "iPhone",
+        "price": "79.99k",
+        "description": "Budget-friendly iPhone with Touch ID.",
+        "Specification": [
+            "A15 Bionic",
+            "64GB Storage",
+            "4.7-inch LCD"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": 7,
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "/images/phone1.jpg",
+        "category": "Phones",
+        "price": "119.99k",
+        "description": "Flagship Samsung phone with a high refresh rate display.",
+        "Specification": [
+            "Snapdragon 8 Gen 2",
+            "256GB Storage",
+            "6.7-inch AMOLED"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 8,
+        "product_title": "Google Pixel 7",
+        "product_image": "/images/phone2.jpg",
+        "category": "Phones",
+        "price": "89.99k",
+        "description": "Google’s latest smartphone with AI-powered camera.",
+        "Specification": [
+            "Google Tensor G2",
+            "128GB Storage",
+            "6.3-inch OLED"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 9,
+        "product_title": "OnePlus 11",
+        "product_image": "/images/phone3.jpg",
+        "category": "Phones",
+        "price": "79.99k",
+        "description": "Flagship killer with fast charging.",
+        "Specification": [
+            "Snapdragon 8 Gen 2",
+            "256GB Storage",
+            "6.7-inch AMOLED"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": 10,
+        "product_title": "Apple Watch Series 8",
+        "product_image": "/images/watch1.jpg",
+        "category": "Smart Watches",
+        "price": "49.99k",
+        "description": "Latest Apple Watch with health tracking.",
+        "Specification": [
+            "S8 Chip",
+            "GPS + Cellular",
+            "Waterproof"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 11,
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "/images/watch2.jpg",
+        "category": "Smart Watches",
+        "price": "39.99k",
+        "description": "Wear OS-based Samsung smartwatch.",
+        "Specification": [
+            "Wear OS",
+            "AMOLED Display",
+            "Waterproof"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 12,
+        "product_title": "Garmin Fenix 7",
+        "product_image": "/images/watch3.jpg",
+        "category": "Smart Watches",
+        "price": "59.99k",
+        "description": "Outdoor sports watch with GPS tracking.",
+        "Specification": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Long Battery Life"
+        ],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": 13,
+        "product_title": "MacBook Air M2",
+        "product_image": "/images/macbook1.jpg",
+        "category": "MacBook",
+        "price": "109.99k",
+        "description": "Thin and light laptop with M2 chip.",
+        "Specification": [
+            "M2 Chip",
+            "8GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 14,
+        "product_title": "MacBook Pro 16",
+        "product_image": "/images/macbook2.jpg",
+        "category": "MacBook",
+        "price": "159.99k",
+        "description": "High-performance laptop for professionals.",
+        "Specification": [
+            "M2 Pro Chip",
+            "32GB RAM",
+            "1TB SSD"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": 15,
+        "product_title": "MacBook Pro 13",
+        "product_image": "/images/macbook3.jpg",
+        "category": "MacBook",
+        "price": "119.99k",
+        "description": "Compact MacBook with Touch Bar.",
+        "Specification": [
+            "M2 Chip",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 16,
+        "product_title": "Wireless Charger",
+        "product_image": "/images/accessory1.jpg",
+        "category": "Accessories",
+        "price": "19.99k",
+        "description": "Fast wireless charger for multiple devices.",
+        "Specification": [
+            "10W Fast Charge",
+            "USB-C",
+            "Compact Design"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 17,
+        "product_title": "Bluetooth Headphones",
+        "product_image": "/images/accessory2.jpg",
+        "category": "Accessories",
+        "price": "29.99k",
+        "description": "Noise-canceling wireless headphones.",
+        "Specification": [
+            "ANC",
+            "40-Hour Battery",
+            "Comfort Fit"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 18,
+        "product_title": "USB-C Hub",
+        "product_image": "/images/accessory3.jpg",
+        "category": "Accessories",
+        "price": "14.99k",
+        "description": "Multi-port adapter for laptops.",
+        "Specification": [
+            "HDMI",
+            "USB 3.0",
+            "SD Card Reader"
+        ],
+        "availability": false,
+        "rating": 4.5
+    }
+]
