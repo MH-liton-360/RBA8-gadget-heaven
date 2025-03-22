@@ -12,7 +12,8 @@ const categories = [
     "Accessories",
     "Smart Watches",
     "MacBook",
-    "iPhone"
+    "iPhone",
+    "Others"
 ];
 
 const Products = () => {
@@ -49,7 +50,7 @@ const Products = () => {
                             key={product.product_id}
                         ></Product>)
                     ) : (
-                        <p>No products found.</p>
+                        <p className="font-black text-4xl text-amber-600">No Data Found.</p>
                     )}
                 </div>
             </div>

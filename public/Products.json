@@ -268,5 +268,47 @@
         ],
         "availability": false,
         "rating": 4.5
+    },
+    {
+        "product_id": 19,
+        "product_title": "USB-C Hub",
+        "product_image": "https://i.ibb.co/QFjwZvky/euasoo-9-in-1-usb-c-hub-aqex-1024.webp",
+        "price": "14.99k",
+        "description": "Multi-port adapter for laptops.",
+        "Specification": [
+            "HDMI",
+            "USB 3.0",
+            "SD Card Reader"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": 20,
+        "product_title": "USB-C Hub",
+        "product_image": "https://i.ibb.co/QFjwZvky/euasoo-9-in-1-usb-c-hub-aqex-1024.webp",
+        "price": "14.99k",
+        "description": "Multi-port adapter for laptops.",
+        "Specification": [
+            "HDMI",
+            "USB 3.0",
+            "SD Card Reader"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": 21,
+        "product_title": "USB-C Hub",
+        "product_image": "https://i.ibb.co/QFjwZvky/euasoo-9-in-1-usb-c-hub-aqex-1024.webp",
+        "price": "14.99k",
+        "description": "Multi-port adapter for laptops.",
+        "Specification": [
+            "HDMI",
+            "USB 3.0",
+            "SD Card Reader"
+        ],
+        "availability": false,
+        "rating": 4.5
     }
 ]
