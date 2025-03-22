@@ -9,7 +9,11 @@ const Root = () => {
                 <Navbar></Navbar>
             </div>
             <Outlet></Outlet>
-            <Footer></Footer>
+            <div className="py-5">
+                <Footer></Footer>
+
+            </div>
+
         </div>
     );
 };
