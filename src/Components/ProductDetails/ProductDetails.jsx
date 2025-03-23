@@ -2,7 +2,6 @@ import './ProductDetails.css'
 import { Link, useLoaderData, useParams } from "react-router-dom";
 import { CiHeart } from "react-icons/ci";
 import { addToStoredCartList } from '../../utility/addToDB';
-import { addToStoredWishList } from '../../utility/addToDB_wish';
 
 
 const ProductDetails = () => {
