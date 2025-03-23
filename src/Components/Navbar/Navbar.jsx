@@ -5,8 +5,8 @@ const Navbar = () => {
     const links = <>
 
         <li className="text-white"> <NavLink to={'/'}>Home</NavLink> </li>
-        <li className="text-white"><a>Statistics</a></li>
-        <li className="text-white"><a>Dashboard</a></li>
+        <li className="text-white"> <NavLink to={'/statistics'}>Statistics</NavLink> </li>
+        <li className="text-white"> <NavLink to={'/dashboard'}>Dashboard</NavLink> </li>
     </>
 
 
