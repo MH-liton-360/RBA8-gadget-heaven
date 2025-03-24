@@ -39,7 +39,7 @@ const Dashboard = () => {
                     <TabPanel>
                         <h2>My Cart-List: {cartList.length} </h2>
 
-                        <div className="pt-5 gap-4">
+                        <div className="pt-5 gap-4 min-h-96">
                             {
                                 cartList.map(product => (
                                     <div className='border-4 border-amber-300' key={product.product_id}>
