@@ -2,7 +2,7 @@
     {
         "product_id": 1,
         "product_title": "Dell XPS 13",
-        "product_image": "https://i.ibb.co/zTRfvtMD/d-hi.jpg",
+        "product_image": "https://i.ibb.co/3G6J7y4/1.webp",
         "category": "Laptops",
         "price": "99.99k",
         "description": "A powerful and lightweight ultrabook.",
@@ -17,7 +17,7 @@
     {
         "product_id": 2,
         "product_title": "MacBook Pro 14",
-        "product_image": "https://i.ibb.co/bgfpWppK/Apple-Mac-Book-Pro-14-M1-3.jpg",
+        "product_image": "https://i.ibb.co/hR9DmNgv/2.webp",
         "category": "Laptops",
         "price": "129.99k",
         "description": "The latest MacBook with M2 chip.",
@@ -32,7 +32,7 @@
     {
         "product_id": 3,
         "product_title": "HP Spectre x360",
-        "product_image": "https://i.ibb.co/Kc2D0kGf/8779993-R-Z001-A.jpg",
+        "product_image": "https://i.ibb.co/tpvSv0Bp/3.jpg",
         "category": "Laptops",
         "price": "110.99k",
         "description": "A premium 2-in-1 convertible laptop.",
@@ -47,7 +47,7 @@
     {
         "product_id": 4,
         "product_title": "iPhone 14 Pro",
-        "product_image": "https://i.ibb.co/5grF5FSF/OIP.jpg",
+        "product_image": "https://i.ibb.co/twDbRt8Z/4.webp",
         "category": "iPhone",
         "price": "129.99k",
         "description": "The latest iPhone with advanced camera features.",
@@ -62,7 +62,7 @@
     {
         "product_id": 5,
         "product_title": "iPhone 13 Mini",
-        "product_image": "https://i.ibb.co/5gpN1krd/OIP.jpg",
+        "product_image": "https://i.ibb.co/kV9qbtP7/5.jpg",
         "category": "iPhone",
         "price": "99.99k",
         "description": "Compact and powerful with all-day battery life.",
@@ -77,7 +77,7 @@
     {
         "product_id": 6,
         "product_title": "iPhone SE",
-        "product_image": "https://i.ibb.co/8LJxDPRv/OIP-1.jpg",
+        "product_image": "https://i.ibb.co/0jJgpg6b/6.jpg",
         "category": "iPhone",
         "price": "79.99k",
         "description": "Budget-friendly iPhone with Touch ID.",
@@ -92,7 +92,7 @@
     {
         "product_id": 7,
         "product_title": "Nokia",
-        "product_image": "https://i.ibb.co/LdtLK0kY/phone-0.jpg",
+        "product_image": "https://i.ibb.co/KjWBbq2c/7.jpg",
         "category": "Phones",
         "price": "119.99k",
         "description": "Flagship Samsung phone with a high refresh rate display.",
@@ -107,7 +107,7 @@
     {
         "product_id": 8,
         "product_title": "Samsung Galaxy",
-        "product_image": "https://i.ibb.co/1Gw982qk/samsung.jpg",
+        "product_image": "https://i.ibb.co/0pmpVgj3/8.webp",
         "category": "Phones",
         "price": "89.99k",
         "description": "Google’s latest smartphone with AI-powered camera.",
@@ -122,7 +122,7 @@
     {
         "product_id": 9,
         "product_title": "OnePlus 11",
-        "product_image": "https://i.ibb.co/cKMPBxCS/OIP-1.jpg",
+        "product_image": "https://i.ibb.co/2BDQGhW/9.webp",
         "category": "Phones",
         "price": "79.99k",
         "description": "Flagship killer with fast charging.",
@@ -137,7 +137,7 @@
     {
         "product_id": 10,
         "product_title": "Smart Watch White",
-        "product_image": "https://i.ibb.co/fYvxvDBw/OIP.jpg",
+        "product_image": "https://i.ibb.co/Y7h8gGHf/10.jpg",
         "category": "Smart Watches",
         "price": "49.99k",
         "description": "Latest Apple Watch with health tracking.",
@@ -152,7 +152,7 @@
     {
         "product_id": 11,
         "product_title": "Samsung Galaxy Watch",
-        "product_image": "https://i.ibb.co/SXhtmDRK/R.jpg",
+        "product_image": "https://i.ibb.co/qMDMbVzn/11.jpg",
         "category": "Smart Watches",
         "price": "39.99k",
         "description": "Wear OS-based Samsung smartwatch.",
@@ -167,7 +167,7 @@
     {
         "product_id": 12,
         "product_title": "Garmin Fenix 7",
-        "product_image": "https://i.ibb.co/qLfT9jmq/OIP-1.jpg",
+        "product_image": "https://i.ibb.co/Kx03LPqW/12.jpg",
         "category": "Smart Watches",
         "price": "59.99k",
         "description": "Outdoor sports watch with GPS tracking.",
@@ -182,7 +182,7 @@
     {
         "product_id": 13,
         "product_title": "MacBook pro MPXV2",
-        "product_image": "https://i.ibb.co/WNj4qtsn/Apple-Macbook-Pro-MPXV2-Price-in-Pakistan.jpg",
+        "product_image": "https://i.ibb.co/kVzM0D75/13.jpg",
         "category": "MacBook",
         "price": "109.99k",
         "description": "Thin and light laptop with M2 chip.",
@@ -197,7 +197,7 @@
     {
         "product_id": 14,
         "product_title": "MacBook Pro 16",
-        "product_image": "https://i.ibb.co/JFFTyQcf/26f90bdeb5664e2cc04e9b4e678616d1e6-rsquare-w600.webp",
+        "product_image": "https://i.ibb.co/chLgjBR4/14.jpg",
         "category": "MacBook",
         "price": "159.99k",
         "description": "High-performance laptop for professionals.",
@@ -212,7 +212,7 @@
     {
         "product_id": 15,
         "product_title": "MacBook Pro 13",
-        "product_image": "https://i.ibb.co/QvfWGCp3/RREGERG.jpg",
+        "product_image": "https://i.ibb.co/W4J6pQgj/15.webp",
         "category": "MacBook",
         "price": "119.99k",
         "description": "Compact MacBook with Touch Bar.",
@@ -227,7 +227,7 @@
     {
         "product_id": 16,
         "product_title": "Wireless Charger",
-        "product_image": "https://i.ibb.co/ZpbyvnrN/wireless-charging-station-for-iphone-watch-airpods.webp",
+        "product_image": "https://i.ibb.co/1YCFkhRv/16.webp",
         "category": "Accessories",
         "price": "19.99k",
         "description": "Fast wireless charger for multiple devices.",
@@ -242,7 +242,7 @@
     {
         "product_id": 17,
         "product_title": "Bluetooth Headphones",
-        "product_image": "https://i.ibb.co/bRD8vwfp/Leaf-bass-2-headphones.jpg",
+        "product_image": "https://i.ibb.co/fd2DfjyZ/17.jpg",
         "category": "Accessories",
         "price": "29.99k",
         "description": "Noise-canceling wireless headphones.",
@@ -257,7 +257,7 @@
     {
         "product_id": 18,
         "product_title": "USB-C Hub",
-        "product_image": "https://i.ibb.co/QFjwZvky/euasoo-9-in-1-usb-c-hub-aqex-1024.webp",
+        "product_image": "https://i.ibb.co/2Jpn1tD/17.webp",
         "category": "Accessories",
         "price": "14.99k",
         "description": "Multi-port adapter for laptops.",
