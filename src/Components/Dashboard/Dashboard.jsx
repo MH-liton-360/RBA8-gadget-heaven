@@ -4,6 +4,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import { getStoredCartList } from '../../utility/addToDB';
 import Product from '../Product/Product';
+import { Helmet } from 'react-helmet';
 
 const Dashboard = () => {
 
@@ -25,6 +26,11 @@ const Dashboard = () => {
 
     return (
         <div className="pt-5">
+
+            <Helmet>
+                <title>GadgetHeaven | Dashboard</title>
+            </Helmet>
+
 
             <div className="bg-blue-500 h-44 text-white text-center p-3">
                 <h2 className="text-3xl font-bold">Product Details</h2>
